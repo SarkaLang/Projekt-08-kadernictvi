@@ -1,3 +1,4 @@
+
 /*
 Bootstrap 5 breakpointy:
 X-Small							None	<576px
@@ -15,12 +16,16 @@ světle šedá: #f0f0f0
 /* --- pod tuto čáru piš svoje CSS --- */
 
 body {
+    width:auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
     color: #c5308a;
-    margin: 0;
+}
+
+.nadpish1 {
+   margin-left: 1%;
 }
 
 h5 {
@@ -42,13 +47,10 @@ h5 {
     font-size: 20px;
     text-align:left;
     color: white;
-    margin: 0;
 }
 
 .novinky {
     background-color: #c5308a;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
 /*Nase kadernice*/
@@ -64,7 +66,7 @@ h5 {
 
 .kadernice1 {
     border-radius: 50%;
-    padding-bottom: 10%;
+   
 }
 
 .popis {
@@ -93,7 +95,7 @@ p {
 
 .sluzba {
     text-align: center;
-    padding-bottom: 3%;
+  
 }
 
 .nadpisy3 {
@@ -101,18 +103,12 @@ p {
     font-style: italic;
 }
 
-.damske,
-.panske {
-    padding-bottom: 5%;
-}
-
 /*Reference*/
 
 .reference {
     background-color: #f0f0f0;
     padding-left: 3%;
-    padding-right: 3%;
-    padding-bottom: 2%;
+   
 }
 
 .nadpisref {
@@ -132,10 +128,13 @@ p {
 
 /*Fotogalerie*/
 
+.fot {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .nadpisfoto {
     text-align: center;
-    padding-top: 2%;
-    padding-bottom: 2%;
 }
 
 /*Kontakt*/
@@ -158,7 +157,6 @@ p {
 .paticka {
     padding-top: 2%;
     padding-left: 5%;
-    padding-right: 5%;
     margin: 0;
     margin-left: 0;
 }
@@ -189,8 +187,8 @@ p {
 }
 
 .flickr {
+    width: 100%;
     padding-left: 5%;
-    padding-right: 5%;
 }
 
 .pink {
