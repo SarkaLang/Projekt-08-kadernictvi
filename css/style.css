@@ -13,3 +13,197 @@ světle šedá: #f0f0f0
 */
 
 /* --- pod tuto čáru piš svoje CSS --- */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #c5308a;
+    margin: 0;
+}
+
+h5 {
+    color: #c5308a;
+}
+
+/*Akce kveten*/
+
+.akce {
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-family:serif;  
+}
+
+.kveten {
+    font-size: 20px;
+    text-align:left;
+    color: white;
+    margin: 0;
+}
+
+.novinky {
+    background-color: #c5308a;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/*Nase kadernice*/
+
+.kadernice {
+    background-color: #f0f0f0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+}
+
+.kadernice1 {
+    border-radius: 50%;
+    padding-bottom: 10%;
+}
+
+.popis {
+    padding-top: 3%;
+}
+
+h2 {
+ font-style: italic;
+}
+
+.jmeno {
+    color: #c5308a;
+    font-style: italic;
+}
+
+p {
+    font-size: 20px;
+}
+
+.sluzby {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+/*Sluzby*/
+
+.sluzba {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.nadpisy3 {
+    color: #c5308a;
+    font-style: italic;
+}
+
+.damske,
+.panske {
+    padding-bottom: 5%;
+}
+
+/*Reference*/
+
+.reference {
+    background-color: #f0f0f0;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+}
+
+.nadpisref {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.refref {
+    border-radius: 50%;
+    max-width: 120px;
+}
+
+.fff {
+    padding: 6%;
+}
+
+/*Fotogalerie*/
+
+.nadpisfoto {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/*Kontakt*/
+
+.kontakt {
+    background-color: #f0f0f0;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+
+.nadpiskontakt {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+/*Paticka*/
+
+.paticka {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0;
+    margin-left: 0;
+}
+
+.cz {
+    font-size:medium;
+}
+
+.border {
+    border: #f0f0f0;
+}
+
+.doba {
+    color:#c5308a;
+    font-style: italic;
+}
+
+.fb,
+.tw {
+    color: #c5308a;
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 1%;
+}
+
+.mezera {
+    padding-right: 5%;
+}
+
+.flickr {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.pink {
+    color: #c5308a;
+}
+
+
+
+
+
+
+
+
+
+
+
