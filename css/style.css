@@ -157,6 +157,7 @@ p {
 .paticka {
     padding-top: 2%;
     padding-left: 5%;
+    padding-right: 5%;
     margin: 0;
     margin-left: 0;
 }
@@ -180,6 +181,7 @@ p {
     list-style-type: none;
     text-decoration: none;
     padding-left: 1%;
+    padding-right: 5%;
 }
 
 .mezera {
@@ -188,7 +190,6 @@ p {
 
 .flickr {
     width: 100%;
-    padding-left: 5%;
 }
 
 .pink {
